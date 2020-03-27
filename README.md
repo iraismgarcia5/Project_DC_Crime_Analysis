@@ -6,20 +6,19 @@ Repository for analysis on Washington DC crime data analysis.
 
 Irais Garcia, Omar Haddad, Lolita Dias , Nithin Sunil
 
-### Examine the correlation between crime rate and the home prices in Austin. 
-Finding crime patterns and trends in Austin by zip code to provide better safety and security insights for Austin residents and tourists. 
+### Understanding the trends and patterns in crime rates and to identify the most dangerous areas of D.C
+Finding crime patterns and trends in DC by area to provide better information for law enforcement and civilians
 
 ## Questions:
 1. Where is crime concentrated in DC? 
-2. Is there a correlation between housing prices and crime rate?
+2. When were crimes most likely to occur?
 3. What were the most common crimes in D.C? 
-3. Which type of crime is prominent in each zip code? 
-4. Does population influence the crime rate in a zip code?
+4. Which type of crime is prominent in each area? 
 
 ## Datasets Used: 
- 1. https://www.kaggle.com/zillow/zecon
- 2. https://www.census.gov/developers/
- 3. https://data.austintexas.gov/Public-Safety/Crime-Reports/fdj4-gpfu
+ 1. https://opendata.dc.gov/datasets/crime-incidents-in-2019?orderBy=REPORT_DAT
+ 2. https://edscape.dc.gov/page/neighborhood-factors-crime-and-safety
+ 3. https://ww
 
 ## Breakdown of Tasks:
 
