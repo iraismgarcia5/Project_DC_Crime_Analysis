@@ -6,8 +6,6 @@ Repository for analysis on Washington DC crime data analysis.
 
 Irais Garcia, Omar Haddad, Lolita Dias , Nithin Sunil
 
-# Austin Crime Rate Analysis 
-
 ### Examine the correlation between crime rate and the home prices in Austin. 
 Finding crime patterns and trends in Austin by zip code to provide better safety and security insights for Austin residents and tourists. 
 
