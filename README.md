@@ -4,7 +4,7 @@ Repository for analysis on Washington DC crime data analysis.
 
 ### Team Members: 
 
-Ashley McGee, Robert McAlmon, Ashley Patterson, Jenny Dang, Stephanie Engeling
+Irais Garcia, Omar Haddad, Lolita Dias , Nithin Sunil
 
 # Austin Crime Rate Analysis 
 
@@ -12,8 +12,9 @@ Ashley McGee, Robert McAlmon, Ashley Patterson, Jenny Dang, Stephanie Engeling
 Finding crime patterns and trends in Austin by zip code to provide better safety and security insights for Austin residents and tourists. 
 
 ## Questions:
-1. Where is crime concentrated in Austin? 
-2. Is there a correlation between housing prices and crime rate? 
+1. Where is crime concentrated in DC? 
+2. Is there a correlation between housing prices and crime rate?
+3. What were the most common crimes in D.C? 
 3. Which type of crime is prominent in each zip code? 
 4. Does population influence the crime rate in a zip code?
 
