@@ -1,7 +1,7 @@
 # Analysis of Crime in Washington DC
 Repository for analysis on Washington DC crime data analysis.
    
-   
+     
 ### Team Members: 
 
 Irais Garcia, Omar Haddad, Lolita Dias , Nithin Sunil.   
