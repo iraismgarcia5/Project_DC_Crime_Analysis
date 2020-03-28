@@ -45,7 +45,7 @@ Finding crime patterns and trends in DC by area to provide better information fo
 * Very high correlation between gun violence and homicide
 
 ###### 2. When was crime most likely to take place?
-<img src="Images/crimes_shift.png">
+<img src="Images/crimes_day.png">
 <img src="Images/crimes_month.png">
 <img src="Images/gun_crimes_month.png">
 <img src="Images/hom_crimes_month.png">
