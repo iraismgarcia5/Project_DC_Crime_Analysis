@@ -56,7 +56,7 @@ Finding crime patterns and trends in DC by area to provide better information fo
 * Reported crimes peak in August, while homicides and gun crimes peak in January
 * Crime is likely underreported in areas with high homicide rates
 
-#### 3. Which type of crime is prominent in each zip code? 
+#### 3. What were the most common crimes?
 
 <img src="/ashley_patterson/nonviolent_crimes.png">
 <img src="/ashley_patterson/violent_crimes.png">
