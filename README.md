@@ -59,7 +59,7 @@ Finding crime patterns and trends in DC by area to provide better information fo
 #### 3. What were the most common crimes?
 
 <img src="/Images/type_crimes.png">
-<img src="/Images/type_crimes_number.png" width= 100>
+<img src="/Images/type_crimes_number.png" width= 800>
 
 * The most common violent crime by zip code is Aggravated Assault.
 * The most common non-violent crime by zip code is Theft.
