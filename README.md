@@ -33,7 +33,7 @@ Finding crime patterns and trends in DC by area to provide better information fo
 
 # Questions - Answered
 
-###### 1. Where is crime concentrated in Austin? 
+###### 1. Where is crime concentrated in D.C? 
 
 <img src="/ashley_patterson/crime_heatmap.png">
 
