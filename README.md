@@ -61,14 +61,20 @@ Finding crime patterns and trends in DC by area to provide better information fo
 <img src="/Images/type_crimes.png">
 <img src="/Images/type_crimes_number.png" width= 800>
 
-* The most common violent crime by zip code is Aggravated Assault.
-* The most common non-violent crime by zip code is Theft.
-* Exemplary of national statistics that not all sexual assault cases are reported, out of a population of 950,715, only 1,140 cases of Sexual Assault were reported in 2018.
-* We extrapolated a few zip codes and noted that there was 254 instances theft in 78613, which is Cedar Park, a zip code spanning Williamson County with a population of over 48,000 people. Given that we have calculated a 14% correlation between population size and crime rate, it stands to reason that population density has no real effect on the amount of crime occurring in a given area. 
+* The most common crimes were thefts. Thefts cumulatively made up 84.43% of all crimes in D.C 
+* Homicides comprised only 0.34% of all crime
+* Assault with a dangerous weapon was the most common violent crime
+* Arsons were the least common crimes
 
-#### 4. Does population influence the crime rate in a zip code?
+#### 4. Trends in crime incidents over time
 
-<img src="/robert_mcalmon/crime_rate_and_population.png">
+<img src="/Images/trend_homicide.png">
+<img src="/Images/trend_assault.png">
+<img src="/Images/trend_abuse.png">
+<img src="/Images/trend_robbery.png">
+<img src="/Images/trend_theft_other.png">
+
+
 
 * There is a weak positive (14%) correlation between population and crime rates. 
 * Zip codes that are zoned with a lot of commercial areas tend to have low populations with higher reports of crime. 
