@@ -25,7 +25,7 @@ Finding crime patterns and trends in DC by area to provide better information fo
 1. Get dataset from sources.
 2. Cleaned data.
 3. Breakdown and analyze the dataset.
-4. Get crime rate for each police service area(PSA),district, and neighborhood cluster.  
+4. Get crime rate for each street, ward, police service area (PSA), district, and neighborhood cluster.  
 5. Find change in crime rates over time. 
 7. Graph using matplotlib and plotly.
 8. Make conclusions.
@@ -36,14 +36,21 @@ Finding crime patterns and trends in DC by area to provide better information fo
 ###### 1. Where is crime concentrated in D.C? 
 
 <img src="Images/density.png">
+<img src="Images/crimes_district.png">
+<img src="Images/crimes_ward.png">
 
-* Downtown has the largest concentration of crime with 8075 reports.
-* Crime reports in each zip code do not correlate to population density, as there are certain zip code with a low population but a high number of crime reports, or vice versa.
-* There is a high intensity of crime rate per 100,000 people in Downtown and East Austin (78701, 78702, 78703), showing that most crimes occur in this area.
 
-###### 2. Is there a correlation between housing prices and crime rate? 
+* Central D.C had the most reported crime in our dataset
+* Surprisingly, there was little correlation between crime reported in an area and homicides
+* Very high correlation between gun violence and homicide
 
-<img src="/ashley_patterson/popcrimecostpercentchangeBAR.png">
+###### 2. When was crime most likely to take place?
+<img src="Images/crimes_shift">
+<img src="Images/crimes_month">
+<img src="Images/gun_crimes_month">
+<img src="Images/hom_crimes_month">
+<img src="Images/crimes_month">
+
 
 * Overall, population and median home cost in Austin increased between 2011 and 2016.
 * There appears to be similarities in the rate of increase for both population and median home cost.
