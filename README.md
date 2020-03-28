@@ -4,7 +4,7 @@ Repository for analysis on Washington DC crime data analysis.
 
 ### Team Members: 
 
-Irais Garcia, Omar Haddad, Lolita Dias , Nithin Sunil
+Irais Garcia, Omar Haddad, Lolita Dias , Nithin Sunil.   
 
 ### Understanding the trends and patterns in crime rates and to identify the most dangerous areas of D.C
 Finding crime patterns and trends in DC by area to provide better information for law enforcement and civilians
