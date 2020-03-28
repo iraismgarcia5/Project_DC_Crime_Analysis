@@ -86,11 +86,7 @@ Finding crime patterns and trends in DC by area to provide better information fo
 ## Conclusions
 
 Based on the data we have found: 
-* There is no visible relationship between the crime and the median home cost, making it difficult to track neighborhood desirability based solely on property value changes. Despite gentrification in some areas such as  78702--with property values rising to over $200,000 in 2016--the amount of crime in that area remains roughly unchanged since 2016, with 629,616 crime reports filed in 2018.
-* To avoid crime the best place to live would be away from Downtown Austin because the most crime concentration is in Downtown.
-* While population and median home cost in Austin increased between 2011 and 2016 the crime rate decreased across most of the Austin zip codes.
-* Population is not a good indicator of crime because many crimes are committed in commercial areas where not as many people live. 
-* More investigation needed to determine what might affect the crime rate.
-
-## Disclaimer 
-This is not real safety & security advice, it is only based on the data and the results analyzed from the Austin crime data sample from 2011 - 2016.
+* Most of the crime took place in the central areas of D.C
+* The vast majority of crimes were property related
+* Reported gun crimes and homicides were highly correlated. They were not very correlated with reported crimes in a given area
+* Overall crime appears to be increasing in D.C
