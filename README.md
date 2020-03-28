@@ -73,11 +73,14 @@ Finding crime patterns and trends in DC by area to provide better information fo
 <img src="/Images/trend_abuse.png">
 <img src="/Images/trend_robbery.png">
 <img src="/Images/trend_theft_other.png">
+<img src="/Images/trend_arson.png">
 
 
 
-* There is a weak positive (14%) correlation between population and crime rates. 
-* Zip codes that are zoned with a lot of commercial areas tend to have low populations with higher reports of crime. 
+
+* Almost all types of crimes experienced growth in the number of incidents over 2009-2019 
+* This is likely due to increases in population growth over the period
+* Arson incidents fell dramatically over the period to near zero incidents per year.
 
 ## Conclusions
 
