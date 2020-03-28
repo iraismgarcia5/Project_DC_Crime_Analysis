@@ -81,6 +81,7 @@ Finding crime patterns and trends in DC by area to provide better information fo
 * Almost all types of crimes experienced growth in the number of incidents over 2009-2019 
 * This is likely due to increases in population growth over the period
 * Arson incidents fell dramatically over the period to near zero incidents per year.
+* Sex abuse incidents remained stable
 
 ## Conclusions
 
