@@ -52,10 +52,9 @@ Finding crime patterns and trends in DC by area to provide better information fo
 <img src="Images/crimes_month.png">
 
 
-* Overall, population and median home cost in Austin increased between 2011 and 2016.
-* There appears to be similarities in the rate of increase for both population and median home cost.
-* Overall, crime decreased across most of the Austin zip codes.
-* There is no visible relationship between the crime and the median home cost.
+* Crimes are more likely to take place during the weekends than weekdays
+* Reported crimes peak in August, while homicides and gun crimes peak in January
+* Crime is likely underreported in areas with high homicide rates
 
 ##### 3. Which type of crime is prominent in each zip code? 
 
