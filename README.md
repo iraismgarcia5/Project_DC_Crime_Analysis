@@ -74,7 +74,7 @@ Finding crime patterns and trends in DC by area to provide better information fo
 <img src="/Images/trend_robbery.png">
 <img src="/Images/trend_theft_other.png">
 <img src="/Images/trend_arson.png">
-
+     
 
 
 
