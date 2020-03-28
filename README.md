@@ -45,11 +45,11 @@ Finding crime patterns and trends in DC by area to provide better information fo
 * Very high correlation between gun violence and homicide
 
 ###### 2. When was crime most likely to take place?
-<img src="Images/crimes_shift">
-<img src="Images/crimes_month">
-<img src="Images/gun_crimes_month">
-<img src="Images/hom_crimes_month">
-<img src="Images/crimes_month">
+<img src="Images/crimes_shift.png">
+<img src="Images/crimes_month.png">
+<img src="Images/gun_crimes_month.png">
+<img src="Images/hom_crimes_month.png">
+<img src="Images/crimes_month.png">
 
 
 * Overall, population and median home cost in Austin increased between 2011 and 2016.
