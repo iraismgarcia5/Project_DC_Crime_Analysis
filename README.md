@@ -35,7 +35,7 @@ Finding crime patterns and trends in DC by area to provide better information fo
 
 ###### 1. Where is crime concentrated in D.C? 
 
-<img src="/ashley_patterson/crime_heatmap.png">
+<img src="https://github.com/iraismgarcia5/Project_DC_Crime_Analysis/blob/master/Images/density.png?raw=true">
 
 * Downtown has the largest concentration of crime with 8075 reports.
 * Crime reports in each zip code do not correlate to population density, as there are certain zip code with a low population but a high number of crime reports, or vice versa.
