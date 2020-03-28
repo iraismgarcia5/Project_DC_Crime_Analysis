@@ -33,7 +33,7 @@ Finding crime patterns and trends in DC by area to provide better information fo
 
 # Questions - Answered
 
-###### 1. Where is crime concentrated in D.C? 
+##### 1. Where is crime concentrated in D.C? 
 
 <img src="Images/density.png">
 <img src="Images/crimes_district.png">
@@ -44,7 +44,7 @@ Finding crime patterns and trends in DC by area to provide better information fo
 * Surprisingly, there was little correlation between crime reported in an area and homicides
 * Very high correlation between gun violence and homicide
 
-###### 2. When was crime most likely to take place?
+##### 2. When was crime most likely to take place?
 <img src="Images/crimes_day.png">
 <img src="Images/crimes_month.png">
 <img src="Images/gun_crimes_month.png">
@@ -57,7 +57,7 @@ Finding crime patterns and trends in DC by area to provide better information fo
 * Overall, crime decreased across most of the Austin zip codes.
 * There is no visible relationship between the crime and the median home cost.
 
-###### 3. Which type of crime is prominent in each zip code? 
+##### 3. Which type of crime is prominent in each zip code? 
 
 <img src="/ashley_patterson/nonviolent_crimes.png">
 <img src="/ashley_patterson/violent_crimes.png">
@@ -67,7 +67,7 @@ Finding crime patterns and trends in DC by area to provide better information fo
 * Exemplary of national statistics that not all sexual assault cases are reported, out of a population of 950,715, only 1,140 cases of Sexual Assault were reported in 2018.
 * We extrapolated a few zip codes and noted that there was 254 instances theft in 78613, which is Cedar Park, a zip code spanning Williamson County with a population of over 48,000 people. Given that we have calculated a 14% correlation between population size and crime rate, it stands to reason that population density has no real effect on the amount of crime occurring in a given area. 
 
-###### 4. Does population influence the crime rate in a zip code?
+##### 4. Does population influence the crime rate in a zip code?
 
 <img src="/robert_mcalmon/crime_rate_and_population.png">
 
