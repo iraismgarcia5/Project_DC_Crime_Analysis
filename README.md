@@ -10,7 +10,7 @@ Irais Garcia, Omar Haddad, Lolita Dias , Nithin Sunil
 Finding crime patterns and trends in DC by area to provide better information for law enforcement and civilians
 
 ## Questions:
-1. Where is crime concentrated in DC? 
+1. Where is crime concentrated in D.c? 
 2. When were crimes most likely to occur?
 3. What were the most common crimes in D.C? 
 4. Which type of crime is prominent in each area? 
@@ -25,10 +25,9 @@ Finding crime patterns and trends in DC by area to provide better information fo
 1. Get dataset from sources.
 2. Cleaned data.
 3. Breakdown and analyze the dataset.
-4. Get crime rate by dividing crime reported by population for each zip code.
-5. Calculate percent change of crime, population, and median home value.
-6. Find the correlation between percent change of crime, population, and median home value.
-7. Graph using matplotlib.
+4. Get crime rate for each police service area(PSA),district, and neighborhood cluster  
+5. Find change in crime rates over time 
+7. Graph using matplotlib and plotly
 8. Make conclusions.
 
 
